@@ -24,6 +24,7 @@ func main() {
 
 	// this blocks forever, until the server
 	// has an unrecoverable error
+ // error handling here ✓
 	fmt.Println("server started on ", port)
 	err := srv.ListenAndServe()
 	log.Fatal(err)
