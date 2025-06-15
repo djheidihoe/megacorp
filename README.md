@@ -4,3 +4,4 @@ The starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) 
 
 this was fun!
 testing GitHub hook to boot.dev
+should work now!
